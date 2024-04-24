@@ -1,0 +1,14 @@
+html, body {
+    font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    line-height: 1.43rem;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.main-div{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
